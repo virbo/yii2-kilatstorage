@@ -1,6 +1,6 @@
 <?php
 
-namespace virbo\kilatstorage\src;
+namespace virbo\kilatstorage;
 
 use Aws\S3\Exception\S3Exception;
 use yii\base\Component;
